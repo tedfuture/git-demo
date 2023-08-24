@@ -3,3 +3,4 @@ file
 file1
 pull request demo
 pull request demo 2
+conflict demo by dev
